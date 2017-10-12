@@ -1,0 +1,62 @@
+{
+   "type": "basic",
+  "front": "what is the difference between lava and magma?",
+  "back": "location"
+ 
+};
+{
+    "type": "basic",
+    "front": "Who was the first president of the United States?",
+    "back": "George Washington"
+  };
+  {
+    "type": "cloze",
+    "text": "The United States was founded in the year 1776.",
+    "cloze": "1776",
+    "clozeDeleted":"The United States was founded in the year _____"
+  };
+  {
+    "type": "basic",
+    "front": "A document created after the war that gave the colonists their independence.",
+    "back": "Treaty of Paris"
+  };
+  {
+    "type": "basic",
+    "front": "A person who supported the British during the American Revolution.",
+    "back": "Loyalist"
+  };
+  {
+    "type": "cloze",
+    "text": "The Boston Tea Party was a 1773 protest against British taxes in which colonists disguised as Mohawks dumped a valuable trade good into Boston Harbor.",
+    "cloze": "Tea Party",
+    "clozeDeleted":"The Boston _____ was a 1773 protest against British taxes in which colonists disguised as Mohawks dumped a valuable trade good into Boston Harbor."
+    
+  };
+  {
+    "type": "basic",
+    "front": "A tax that the British Pariliament placed on newspapers and official documents sold in the American Colonies.",
+    "back": "Stamp Act"
+  };
+  {
+    "type": "cloze",
+    "text": "One of the events that lead to the Revolutionary War was the Boston Massacre where 5 colonists were killed by British soldiers.",
+    "cloze": "Boston Massacre",
+    "clozeDeleted":"One of the events that lead to the Revolutionary War was the _________ where 5 colonists were killed by British soldiers."
+  };
+  {
+    "type": "basic",
+    "front": "He was a delegate from Virginia at the Second Continental Congress and wrote the Declaration of Independence. He later served as the third President of the United States.",
+    "back": "Thomas Jefferson"
+  };
+  {
+    "type": "cloze",
+    "text": "President of the Continental Congress, John Hancock was first to sign the Declaration of Independence.",
+    "cloze": "John Hancock",
+    "clozeDeleted":"President of the Continental Congress, ________ was first to sign the Declaration of Independence."
+  };
+  {
+    "type": "cloze",
+    "text": "Benjamin Franklin was an American patriot, writer, printer, and inventor. During the Revolutionary War he persuaded the French to help the colonists.",
+    "cloze": "Benjamin Franklin",
+    "clozeDeleted":" _____ was an American patriot, writer, printer, and inventor. During the Revolutionary War he persuaded the French to help the colonists."
+  };

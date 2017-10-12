@@ -1,0 +1,28 @@
+{
+  "name": "Flashcard-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"browserify cli.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinnera01/Flashcard-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinnera01/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/kinnera01/Flashcard-Generator#readme",
+  "dependencies": {
+    "browserify": "^14.4.0",
+    "colors": "^1.1.2",
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {}
+}
