@@ -18,3 +18,6 @@ Run
 # To run the game execute the following command:
 
 node cli.js
+
+# Demo
+![one](Screen Shot 2017-11-26 at 4.47.55 PM)
